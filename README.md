@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ibrahim Qi
+# 👋 Hi, I'm Ibrahim!
 
 I'm a UK-based Software Engineering student graduating in **July 2025**, currently focused on **cross-platform mobile development with React Native**.
 
@@ -21,7 +21,7 @@ I’m actively building and maintaining mobile-first projects like:
 
 ### 📫 Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/ibrahim-qi/)
-- [Portfolio](https://ibrahim-qi.vercel.app/)
-- Email: **ibrahimqi.dev@gmail.com**
+- [Portfolio](https://ibrahimqi.com)
+- Email: **ibrahim.qureshi@protonmail.com**
 
 Thanks for visiting — feel free to check out my pinned projects!
