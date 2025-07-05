@@ -3,16 +3,16 @@
 I'm a UK-based React Native developer with a degree in Software Engineering and a strong focus on **building modern, cross-platform mobile apps with React Native**.
 
 ### 💻 What I Do
-- Build mobile apps using **React Native, TypeScript, and Expo**
-- Integrate full-stack features with **Firebase, REST APIs**, and **Node.js**
-- Explore advanced features like **push notifications**, **offline storage**, and **animations**
-- Maintain clean, scalable code with modern best practices
+- Build scalable mobile apps with **React Native, TypeScript, and Expo**
+- Work with full-stack solutions using **Firebase**, **Node.js**, and **REST APIs**
+- Implement features like **offline storage**, **push notifications**, and smooth **animations**
+- Write clean, maintainable code and follow mobile UX best practices
 
 ### 📱 Projects
 I’m actively building and maintaining mobile-first projects like:
-- 🧮 **Macro Logger** – a nutrition tracking app (React Native + Expo)
-- 📈 **InvestEd** – a web app to demystify investing (Next.js + Supabase)
-- 🌐 **My Portfolio Website** – built with Next.js and TypeScript to showcase my work
+- 🧮 **Macro Logger** – Nutrition tracking app built with React Native & Expo
+- 📈 **InvestEd** – Investment learning platform (Next.js + Supabase)
+- 🌐 **Portfolio Website** – Built with Next.js and TypeScript to showcase my work
 
 ### 🌍 Goals
 - Contribute to impactful mobile products and open-source projects
