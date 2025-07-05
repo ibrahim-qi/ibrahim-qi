@@ -15,9 +15,9 @@ I’m actively building and maintaining mobile-first projects like:
 - 🌐 **My Portfolio Website** – built with Next.js and TypeScript to showcase my work
 
 ### 🌍 Goals
-- Break into a **React Native developer** role or internship (remote/hybrid preferred)
-- Contribute to open-source projects and the React Native ecosystem
-- Deliver polished, user-centered mobile experiences
+- Contribute to impactful mobile products and open-source projects
+- Continue exploring animation, real-time sync, and advanced mobile features
+- Grow as a developer through collaboration and real-world experience
 
 ### 📫 Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/ibrahim-qi/)
