@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ibrahim!
 
-I'm a UK-based Software Engineering student graduating in **July 2025**, currently focused on **cross-platform mobile development with React Native**.
+I'm a UK-based React Native developer with a degree in Software Engineering and a strong focus on **building modern, cross-platform mobile apps with React Native**.
 
 ### 💻 What I Do
 - Build mobile apps using **React Native, TypeScript, and Expo**
