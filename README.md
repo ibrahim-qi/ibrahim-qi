@@ -56,15 +56,6 @@
 
 <div align="center">
 
-### 🏠 Openmove Platform
-**Full-Stack Property Platform**
-<br>
-*Next.js • Supabase • TypeScript • PostgreSQL • Real-time Search*
-
-> Complete property listing platform with multi-step forms, image upload, database integration, and mobile-responsive design. Disrupts traditional estate agent model.
-
----
-
 ### 🧮 MacroLogger
 **Nutrition & Macro Tracking App**
 <br>
