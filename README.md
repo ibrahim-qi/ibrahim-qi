@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ibrahim!+%F0%9F%91%8B;React+Native+Developer;Recent+SWE+Graduate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ibrahim!+%F0%9F%91%8B;Full-Stack+Developer;React+Native+%26+Web;Software+Engineer" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Location-Bristol%2C+UK-blue?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Focus-Mobile+Development-green?style=flat-square&logo=android&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack+Development-green?style=flat-square&logo=code&logoColor=white" alt="Focus" />
   <img src="https://img.shields.io/badge/Available-For+Opportunities-brightgreen?style=flat-square&logo=handshake&logoColor=white" alt="Available" />
 </div>
 
@@ -12,11 +12,12 @@
 
 ## 🚀 About Me
 
-**Software Engineering Graduate** with a passion for crafting **modern cross-platform mobile applications**. Currently working as a **Freelance React Native Developer**.
+**Software Engineering Graduate** passionate about building **modern web applications and cross-platform mobile apps**. Currently working as a **Freelance React Native Developer**.
 
 - 🎓 **BSc Software Engineering** from University of the West of England
-- 📱 Specialised in **React Native** and **mobile-first development**
-- 🔥 Building scalable apps with **TypeScript**, **Expo**, and **Firebase/Supabase**
+- 🌐 **Full-stack web development** with **Next.js**, **TypeScript**, and **Supabase**
+- 📱 **Mobile app specialist** in **React Native** and **Expo**
+- 🔧 Experience with **databases**, **APIs**, and **deployment pipelines**
 - 🌍 Based in **Bristol, UK** | Open to **remote opportunities**
 
 ---
@@ -54,6 +55,15 @@
 ## 📱 Featured Projects
 
 <div align="center">
+
+### 🏠 Openmove Platform
+**Full-Stack Property Platform**
+<br>
+*Next.js • Supabase • TypeScript • PostgreSQL • Real-time Search*
+
+> Complete property listing platform with multi-step forms, image upload, database integration, and mobile-responsive design. Disrupts traditional estate agent model.
+
+---
 
 ### 🧮 MacroLogger
 **Nutrition & Macro Tracking App**
@@ -98,10 +108,10 @@
 
 ## 🎯 Current Focus
 
-- 🔥 **Building** production-ready mobile apps with React Native
+- 🔥 **Building** production-ready web applications and mobile apps
 - 📚 **Learning** advanced animation techniques and real-time features  
-- 🤝 **Collaborating** on open-source mobile projects
-- 🚀 **Seeking** full-time opportunities in mobile development
+- 🤝 **Collaborating** on open-source projects (web & mobile)
+- 🚀 **Seeking** full-time opportunities in full-stack or mobile development
 
 ---
 
