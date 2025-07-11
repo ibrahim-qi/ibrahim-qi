@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-**Software Engineering Graduate** with a passion for crafting **modern cross-platform mobile applications**. Currently working as a **Freelance React Native Developer** and participating in **Headstarter AI's Software Engineering Fellowship**.
+**Software Engineering Graduate** with a passion for crafting **modern cross-platform mobile applications**. Currently working as a **Freelance React Native Developer**.
 
 - 🎓 **BSc Software Engineering** from University of the West of England
 - 📱 Specialized in **React Native** and **mobile-first development**
