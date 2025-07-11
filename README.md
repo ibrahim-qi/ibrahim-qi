@@ -3,9 +3,9 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Location-Bristol%2C+UK-blue?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-Bristol%2C UK-blue?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
   <img src="https://img.shields.io/badge/Focus-React Native-green?style=flat-square&logo=code&logoColor=white" alt="Focus" />
-  <img src="https://img.shields.io/badge/Available-For+Opportunities-brightgreen?style=flat-square&logo=handshake&logoColor=white" alt="Available" />
+  <img src="https://img.shields.io/badge/Available-For Opportunities-brightgreen?style=flat-square&logo=handshake&logoColor=white" alt="Available" />
 </div>
 
 <br>
