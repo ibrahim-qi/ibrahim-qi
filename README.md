@@ -15,8 +15,8 @@
 **Software Engineering Graduate** with a passion for crafting **modern cross-platform mobile applications**. Currently working as a **Freelance React Native Developer**.
 
 - 🎓 **BSc Software Engineering** from University of the West of England
-- 📱 Specialized in **React Native** and **mobile-first development**
-- 🔥 Building scalable apps with **TypeScript**, **Expo**, and **Firebase**
+- 📱 Specialised in **React Native** and **mobile-first development**
+- 🔥 Building scalable apps with **TypeScript**, **Expo**, and **Firebase/Supabase**
 - 🌍 Based in **Bristol, UK** | Open to **remote opportunities**
 
 ---
