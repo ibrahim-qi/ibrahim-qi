@@ -16,7 +16,7 @@
 
 - 🎓 **BSc Software Engineering** from University of the West of England
 - 🌐 **Full-stack web development** with **Next.js**, **TypeScript**, and **Supabase**
-- 📱 **Mobile Development Proficiency ** in **React Native** and **Expo**
+- 📱 **Mobile Development Proficiency** in **React Native** and **Expo**
 - 🔧 Experience with **databases**, **APIs**, and **deployment pipelines**
 - 🌍 Based in **Bristol, UK** | Open to **remote opportunities**
 
